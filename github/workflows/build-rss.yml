@@ -1,4 +1,4 @@
-name: Build RSS
+name: Build RSS 
 on:
   schedule:
     - cron: "*/15 * * * *"
